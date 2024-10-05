@@ -6,7 +6,11 @@
 
 ### 👾 About Me
 ```diff
-- 💾 Coder by day, cyberpunk dreamer by night.
-+ 🧠 AI enthusiast | Machine Learning | Deep Learning
-- ⚡️ Building projects at the intersection of tech and human cognition.
-+ 💡 Turning ideas into code, one byte at a time.
+💾 Coder by day, cyberpunk dreamer by night.
+🧠 AI enthusiast | Machine Learning | Deep Learning
+⚡️ Building projects at the intersection of tech and human cognition.
+💡 Turning ideas into code, one byte at a time.
+
++ Languages: Python | JavaScript | C++
++ Frameworks: TensorFlow | PyTorch | Flask
+- Tools: VS Code | Jupyter | Git
