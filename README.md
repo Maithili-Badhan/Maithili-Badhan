@@ -1,6 +1,6 @@
 # ⚡️ Welcome to the Neon City of Code ⚡️
 
-![Cyberpunk](<iframe src="https://giphy.com/embed/IYQutUaiLHTxmscCLy" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wizardsmagic-mtgneon-kamigawa-neon-dynasty-IYQutUaiLHTxmscCLy">via GIPHY</a></p>)
+![Cyberpunk](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9rcDZtcHB0cWhvend3ZDAyMzd4enA0Y2loZDZueTlqNDBoNTFnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IYQutUaiLHTxmscCLy/giphy.gif)
 
 > "The future is already here – it's just not evenly distributed." – William Gibson
 
