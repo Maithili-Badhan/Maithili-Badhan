@@ -1,7 +1,3 @@
-# ⚡️ Welcome to the Neon City of Code ⚡️
-
-![Cyberpunk](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9rcDZtcHB0cWhvend3ZDAyMzd4enA0Y2loZDZueTlqNDBoNTFnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IYQutUaiLHTxmscCLy/giphy.gif)
-
 # <span style="color:#00FFFF">⚡️ Welcome to the Neon City of Code ⚡️</span>
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9rcDZtcHB0cWhvend3ZDAyMzd4enA0Y2loZDZueTlqNDBoNTFnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IYQutUaiLHTxmscCLy/giphy.gif" alt="Cyberpunk" style="width:100%; height:auto;">
