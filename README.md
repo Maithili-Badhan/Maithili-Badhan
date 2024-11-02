@@ -1,14 +1,10 @@
 <h1 align="center"> Tervetuloa! </h1>
 
-
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 I’m currently learning **Convolutional Neural Networks**
-<iframe src="https://giphy.com/embed/qtNGa95cbq29EGi3ib" width="480" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-<p><a href="https://giphy.com/gifs/aquarium-perfectloop-perfectl00p-qtNGa95cbq29EGi3ib">via GIPHY</a></p>
 
+<img src="https://media.giphy.com/media/qtNGa95cbq29EGi3ib/giphy.gif" width="480" height="480" alt="GIF animation">
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -59,13 +55,11 @@
   </a>
 </p>
 
-
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maithili-Badhan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Maithili-Badhan" /></p>
 
@@ -78,7 +72,7 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maithili-badhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maithili-badhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maithili-badhan" height="30" width="40" /></a>
 </p>
 <br>
 ------
