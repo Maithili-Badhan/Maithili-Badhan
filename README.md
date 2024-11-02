@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **Convolutional Neural Networks**
 
-<img src="https://media.giphy.com/media/qtNGa95cbq29EGi3ib/giphy.gif" width="480" height="480" alt="GIF animation">
+![GIF animation](https://media.giphy.com/media/qtNGa95cbq29EGi3ib/giphy.gif)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
