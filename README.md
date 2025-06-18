@@ -2,9 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 🌟 Passionate about building AI systems that *think*, *feel*, and *connect* — from personalized learning tools to empathetic health assistants. Currently exploring the intersection of Cognitive AI, ML, and Metaverse.
-
-![GIF animation](https://media.giphy.com/media/qtNGa95cbq29EGi3ib/giphy.gif)
+🌱 🌟 Passionate about building AI systems that *think*, *feel*, and *connect* — from personalized learning tools to empathetic assistants. Currently exploring the intersection of Cognitive AI, ML, and Metaverse.
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -57,11 +55,33 @@
 
 <hr width="36%" >
 
-<!-- Badge Section -->
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
-  <img src="https://github.com/girlscript/gssoc-website-new/tree/main/public/badges" width="40" height="40" />
-  <!-- Add more badges as needed -->
-</div>
+ <h3>📚 Currently Learning</h3>
+ 
+- 🤖 **Advanced Computer Vision**  
+  Exploring CNN architectures, Grad-CAM for interpretability, and YOLOv8 for real-time object detection.
+
+- 🧠 **Theory of Mind AI**  
+  Investigating AI models that understand human emotion and intent — useful for mental health and conversational agents.
+
+- 🌍 **Metaverse Tools**  
+  Learning to build immersive environments with **Three.js** (WebXR) and **Unity** (VR/AR simulations).
+
+- 🔗 **API Integration**  
+  Building and consuming RESTful APIs for AI/ML microservices and full-stack applications — using tools like FastAPI, Flask, and Postman.
+
+- ⚙️ **DevOps Fundamentals**  
+  Exploring CI/CD pipelines, Docker, GitHub Actions, and basic deployment workflows on platforms.
+
+<br>
+
+<h3 align="left"> Cognitive AI Fun Corner</h3>
+
+<blockquote>
+🤖 "I tried to build a Theory of Mind AI...  
+but it kept getting offended when I asked what it was thinking."  
+</blockquote>
+
+<br>
 
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
@@ -69,14 +89,24 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maithili-Badhan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Maithili-Badhan" /></p>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Maithili-Badhan&show_icons=true&theme=dark&locale=en" alt="Maithili-Badhan" /></p>
-<br><br><br><br><br><br><br><br><br><be>
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maithili-Badhan&show_icons=true&theme=dark&locale=en" alt="Maithili-Badhan's GitHub stats" />
+</p>
+
+<br>
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Maithili-Badhan&theme=dark-smoky&border_radius=4.4&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Maithili-Badhan" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
+
+</h3>🏆 Achievements</h3>
+
+- 🥈 **Selected for** – MIT Global AI Hackathon (2025)
+- 🧪 **Technical Writing** - Published technical blogs on LLMs, Prompt Engineering, and AR/VR
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maithili-badhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maithili-badhan" height="30" width="40" /></a>
@@ -84,4 +114,6 @@
 <br>
 ------
 
-Kiitos!
+Kiitos!<br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maithili-Badhan)
