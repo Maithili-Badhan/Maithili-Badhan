@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **Convolutional Neural Networks**
+🌱 🌟 Passionate about building AI systems that *think*, *feel*, and *connect* — from personalized learning tools to empathetic health assistants. Currently exploring the intersection of Cognitive AI, ML, and Metaverse.
 
 ![GIF animation](https://media.giphy.com/media/qtNGa95cbq29EGi3ib/giphy.gif)
 
