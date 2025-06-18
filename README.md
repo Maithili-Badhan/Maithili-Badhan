@@ -1,11 +1,10 @@
 <h1 align="center"> Tervetuloa! </h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-🌱 🌟 Passionate about building AI systems that *think*, *feel*, and *connect* — from personalized learning tools to empathetic assistants. Currently exploring the intersection of Cognitive AI, ML, and Metaverse.
-
+🌱 Passionate about building AI systems that *think*, *feel*, and *connect* — from personalized learning tools to empathetic assistants.  
+Currently exploring the intersection of **Cognitive AI**, **ML**, and the **Metaverse**.
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -49,71 +48,67 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="scripting" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
 </p>
 
 <hr width="36%" >
 
- <h3>📚 Currently Learning</h3>
- 
-- 🤖 **Advanced Computer Vision**  
-  Exploring CNN architectures, Grad-CAM for interpretability, and YOLOv8 for real-time object detection.
+<h3>📚 Currently Learning</h3>
 
-- 🧠 **Theory of Mind AI**  
-  Investigating AI models that understand human emotion and intent — useful for mental health and conversational agents.
-
-- 🌍 **Metaverse Tools**  
-  Learning to build immersive environments with **Three.js** (WebXR) and **Unity** (VR/AR simulations).
-
-- 🔗 **API Integration**  
-  Building and consuming RESTful APIs for AI/ML microservices and full-stack applications — using tools like FastAPI, Flask, and Postman.
-
-- ⚙️ **DevOps Fundamentals**  
-  Exploring CI/CD pipelines, Docker, GitHub Actions, and basic deployment workflows on platforms.
+- 🤖 **Advanced Computer Vision** – CNNs, Grad-CAM, YOLOv8  
+- 🧠 **Theory of Mind AI** – Emotion & intent-aware systems  
+- 🌍 **Metaverse Tools** – Three.js, Unity for immersive experiences  
+- 🔗 **API Integration** – FastAPI, Flask, Postman  
+- ⚙️ **DevOps** – CI/CD pipelines, GitHub Actions, Docker  
 
 <br>
 
-<h3 align="left"> Cognitive AI Fun Corner</h3>
+<h3 align="left">🧠 Cognitive AI Fun Corner</h3>
 
 <blockquote>
 🤖 "I tried to build a Theory of Mind AI...  
 but it kept getting offended when I asked what it was thinking."  
 </blockquote>
 
-<br>
-
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maithili-Badhan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Maithili-Badhan" /></p>
-
-<br>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maithili-Badhan&show_icons=true&theme=dark&locale=en" alt="Maithili-Badhan's GitHub stats" />
+<!-- Optional aesthetic GIF on the right -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="Coding" width="250" />
 </p>
 
-<br>
+<h3 align="left">📊 My GitHub Stats</h3>
 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Maithili-Badhan&theme=dark-smoky&border_radius=4.4&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Maithili-Badhan" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
-
-</h3>🏆 Achievements</h3>
-
-- 🥈 **Selected for** – MIT Global AI Hackathon (2025)
-- 🧪 **Technical Writing** - Published technical blogs on LLMs, Prompt Engineering, and AR/VR
-
-<h3 align="left">Connect with me:</h3>
+<!-- Top Languages -->
 <p align="left">
-<a href="https://www.linkedin.com/in/maithili-badhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maithili-badhan" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maithili-Badhan&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-<br>
-------
 
-Kiitos!<br>
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maithili-Badhan&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
+<!-- Streak Stats -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Maithili-Badhan&theme=dark-smoky&border_radius=4.4&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</p>
+
+<hr width="60%" />
+
+<h3>🏆 Achievements</h3>
+
+- 🥈 **Selected for** – MIT Global AI Hackathon (2025)  
+- 🧪 **Technical Writing** – Published blogs on LLMs, Prompt Engineering, and AR/VR  
+
+<h3 align="left">📬 Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/maithili-badhan/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+**Kiitos!**  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maithili-Badhan)
