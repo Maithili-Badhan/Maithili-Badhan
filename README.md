@@ -99,7 +99,9 @@ but it kept getting offended when I asked what it was thinking."
 
 - 🥈 **Selected for** – MIT Global AI Hackathon (2025)  
 - 🧪 **Technical Writing** – Published blogs on LLMs, Prompt Engineering, and AR/VR <br>
-[![DevOps Essesntials](./assets/devops-essentials.2.png)](https://www.credly.com/badges/086d8a8f-7d6b-4261-9da7-0da960fa4d35/public_url)
+<a href="https://www.credly.com/badges/086d8a8f-7d6b-4261-9da7-0da960fa4d35/public_url">
+  <img src="./assests/devops-essentials.2.png" alt="DevOps Essentials Badge" width="90"/>
+</a>
 
 <h3 align="left">📬 Connect with me:</h3>
 
