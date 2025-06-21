@@ -99,7 +99,7 @@ but it kept getting offended when I asked what it was thinking."
 
 - 🥈 **Selected for** – MIT Global AI Hackathon (2025)  
 - 🧪 **Technical Writing** – Published blogs on LLMs, Prompt Engineering, and AR/VR <br>
-[![DevOps Essesntials](https://images.credly.com/size/340x340/images/0cd14849-b3c6-496b-b618-4e85c2e7a1bb/image.png)](https://www.credly.com/badges/086d8a8f-7d6b-4261-9da7-0da960fa4d35/public_url)
+[![DevOps Essesntials](./assets/devops-essentials.2.png)](https://www.credly.com/badges/086d8a8f-7d6b-4261-9da7-0da960fa4d35/public_url)
 
 <h3 align="left">📬 Connect with me:</h3>
 
